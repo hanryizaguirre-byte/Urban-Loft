@@ -1,0 +1,6 @@
+{
+  "name": "Urban Loft",
+  "description": "Una tienda de ropa en línea minimalista y moderna con catálogo interactivo y un carrito de compras dinámico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
